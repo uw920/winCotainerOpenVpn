@@ -1,0 +1,1 @@
+c:\OpenVPN\bin\openvpn.exe --config "c:\myopenvpn\ustc-cmcc.ovpn" --ca "c:\myopenvpn\ca.crt"
